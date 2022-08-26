@@ -5,13 +5,13 @@ Aqui vai algumas informações sobre mim:
 
 <div align="center">
   <a href="https://github.com/RenanFerreira02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/nancrazy02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renankferreira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-kaique-fontes-ferreira-31968a215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B73IGuqCISGqWkMb3r6IFAA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -45,6 +45,12 @@ Aqui vai uma pequena lista do que eu estou estudando no momento:
 
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center" /> - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center"/> - PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.
+
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center" /> - Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems, que em 2008 foi adquirido pela empresa Oracle Corporation.
+
 - <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" align="center"  /> - Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional.
 
 - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" align="center" /> - Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+
