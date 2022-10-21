@@ -7,11 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=ff4500&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RenanFerreira02&title_color=ff4500&bg_color=0d1117&thide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=0d1117&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RenanFerreira02&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
  ### Objetivos
 
