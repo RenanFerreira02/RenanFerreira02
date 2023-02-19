@@ -7,11 +7,9 @@
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=ff4500&icon_color=008f81&text_color=00bfbf&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="RenanFerreira's github most used languages"/>
 </div>
 
-[Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true)
-
 ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true)
 
- ### Objetivos
+### Objetivos
 
 - Me formar no curso de Desenvolvimento de Sistemas na ETEC
 - Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
@@ -20,7 +18,7 @@
 Poucos objetivos, porém trabalhosos, espero um dia alcançar todos esses objetivos, e alguns outros que podem surgir no caminho, mas é também importante saber aproveitar o momento e tirar o máximo de proveito de cada momento da vida. Tem uma frase que eu sempre repito pra mim mesmo quando estou ansioso ou quando penso demais sobre as coisas.
 
 > “Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.” – Ferris Bueller
-> 
+
 ### Contato
 
 <a href="https://instagram.com/nancrazy02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
