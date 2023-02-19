@@ -9,7 +9,7 @@
 
 [Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true)
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=0bb1a1&bg_color=transparent&color=32A89C&line=008f81&point=9DEBE7&area_color=02A676&count_private=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=02A676&count_private=true)
 
  ### Objetivos
 
