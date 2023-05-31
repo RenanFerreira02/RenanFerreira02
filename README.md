@@ -3,11 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=35&center=true&vCenter=true&width=1000&lines=Uepa!+Me+Chamo+Renan+Ferreira;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+ETEC;Amo+a+cor+Laranja+%F0%9F%8D%8A;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=ff4500&icon_color=ff4500&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="RenanFerreira's github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=ff4500&icon_color=ff4500&text_color=c9d1d9&count_private=true&include_all_commits=false" alt="RenanFerreira's github stats" /> 
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=ff4500&icon_color=008f81&text_color=00bfbf&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="RenanFerreira's github most used languages"/>
 </div>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true)
+<!-- 
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true) -->
+
+[![Renan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=ff4500&bg_color=transparent&color=ff4500&line=ff4500&point=ff4500&area_color=ff4500&count_private=true)
 
 ### Objetivos
 
