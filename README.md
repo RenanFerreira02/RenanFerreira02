@@ -12,22 +12,25 @@ Yellow text: FFFF8F
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Uepa!+Me+Chamo+Renan+Ferreira;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+ETEC;Amo+a+cor+Laranja+%F0%9F%8D%8A;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Uepa!+Me+Chamo+Renan+Ferreira;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+ETEC;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Bem+vindo!;Me+Chamo+Renan+Ferreira+e+tenho+20+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+FIAP;Conheça+o+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=FFFF8F&icon_color=FFEA00&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="RenanFerreira's github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=FFFF8F&icon_color=008f81&text_color=00bfbf&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="RenanFerreira's github most used languages"/>
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=FFFF8F&icon_color=008f81&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="RenanFerreira's github most used languages"/>
 </div>
 
 ![Renan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RenanFerreira02&hide_border=true&area=true&layout=compact&title_color=FFFF8F&bg_color=transparent&color=FFEA00&line=FFEA00&point=FFEA00&area_color=FFEA00&count_private=true)
 
-### Objetivos
+### Sobre
+Sou um apaixonado por tecnologia e inovação, que busca constantemente aprender novas habilidades e ferramentas para solucionar problemas e criar soluções. 🖥️
 
-- Me formar no curso de Desenvolvimento de Sistemas na ETEC
-- Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
-- Virar Desenvolvedor Full-Stack.
+Formado em Desenvolvimento de Sistemas na ETEC, atulamente sou estudante de Sistemas da Informação na FIAP, adquirindo conhecimentos em diversas áreas da tecnologia, como programação orientada a objetos, banco de dados, inteligência artificial e segurança da informação. 
 
-Poucos objetivos, porém trabalhosos, espero um dia alcançar todos esses objetivos, e alguns outros que podem surgir no caminho, mas é também importante saber aproveitar o momento e tirar o máximo de proveito de cada momento da vida. Tem uma frase que eu sempre repito pra mim mesmo quando estou ansioso ou quando penso demais sobre as coisas.
+Tenho experiência em desenvolvimento web, usando HTML, CSS, JavaScript, PHP, React, Laravel e Wordpress. Também possuo certificações em SQL e HTML/CSS, e domínio de inglês e espanhol. 
+
+Meu objetivo é me tornar um profissional qualificado e atualizado, capaz de atuar em diferentes projetos e desafios e principalmente, me tornar um Dev Full-Stack.
+
+ Tem uma frase que eu sempre repito pra mim mesmo quando estou ansioso ou quando penso demais sobre as coisas.
 
 > “Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.” – Ferris Bueller
 
