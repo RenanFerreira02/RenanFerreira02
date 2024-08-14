@@ -15,7 +15,7 @@ Yellow text: FFFF8F
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Bem+vindo!;Me+Chamo+Renan+Ferreira+e+tenho+20+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+FIAP;Conheça+o+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=FFFF8F&icon_color=FFEA00&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="RenanFerreira's github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=FFFF8F&icon_color=FFEA00&text_color=c9d1d9&include_all_commits=true" alt="RenanFerreira's github stats" /> 
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerreira02&layout=compact&hide_border=true&title_color=FFFF8F&icon_color=008f81&text_color=c9d1d9&bg_color=00000000&count_private=true&include_all_commits=true&hide=hack" alt="RenanFerreira's github most used languages"/>
 </div>
 
