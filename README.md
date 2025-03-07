@@ -12,7 +12,7 @@ Yellow text: FFFF8F
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Uepa!+Me+Chamo+Renan+Ferreira;Tenho+19+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+ETEC;Amo+a+cor+Laranja+%F0%9F%8D%8A;Bem-Vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Bem+vindo!;Me+Chamo+Renan+Ferreira+e+tenho+20+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+FIAP;Conheça+o+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF8F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Bem+vindo!;Me+Chamo+Renan+Ferreira+e+tenho+21+Anos;Moro+em+São+Paulo,+Brasil;Estudante+da+FIAP;Conheça+o+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanFerreira02&show_icons=true&bg_color=00000000&hide_border=true&title_color=FFFF8F&icon_color=FFEA00&text_color=c9d1d9&include_all_commits=true" alt="RenanFerreira's github stats" /> 
@@ -36,7 +36,7 @@ Meu objetivo é me tornar um profissional qualificado e atualizado, capaz de atu
 
 ### Contato
 
-<a href="https://instagram.com/nancrazy02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
+<a href="https://instagram.com/renankffr02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
 <a href = "mailto:renankferreira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-kaique-fontes-ferreira-31968a215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B73IGuqCISGqWkMb3r6IFAA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" target="_blank"></a>
 
